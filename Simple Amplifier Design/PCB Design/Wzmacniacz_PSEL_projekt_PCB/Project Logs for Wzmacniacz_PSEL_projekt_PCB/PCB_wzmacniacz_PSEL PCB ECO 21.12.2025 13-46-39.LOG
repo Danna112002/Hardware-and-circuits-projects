@@ -1,0 +1,16 @@
+Added Component: Designator=IC?(8-Lead Plastic MSOP)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model name"; Value = "LT3063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_2 Pin=IC?-1
+Added Pin To Net: NetName=NetC1_1 Pin=IC?-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-8
+Added Pin To Net: NetName=GND Pin=IC?-9
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-7
+Added Pin To Net: NetName=NetIC?_5 Pin=P1-1
+Added Net: Name=NetIC?_5
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component IC? LT3063

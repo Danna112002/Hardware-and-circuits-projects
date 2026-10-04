@@ -1,0 +1,26 @@
+Change Footprint: Footprint Not Found J01151A1201
+Change Footprint: Footprint Not Found J01151A1201
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R0805"; UniqueID = "\LJWBPFNI" ("\LJWBPFNI")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "Vishay/Beischlag"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "RN73H2ATTD2912B25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "29.1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R0805"; UniqueID = "\EJOKDYXY" ("\EJOKDYXY")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "MCU08050E1001BP100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R0805"; UniqueID = "\HUMAPKXF" ("\HUMAPKXF")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "MCU0805MD1002BP500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"

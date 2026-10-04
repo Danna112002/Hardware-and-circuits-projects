@@ -1,0 +1,95 @@
+Change Component Comment : Designator=C1 Old Comment=* New Comment=1.2u
+Change Component Comment : Designator=C3 Old Comment=* New Comment=1.2u
+Change Component Comment : Designator=R4 Old Comment=* New Comment=1k
+Change Component Comment : Designator=R5 Old Comment=* New Comment=10k
+Change Component Comment : Designator=C2 Old Comment=* New Comment=10u
+Change Component Comment : Designator=R1 Old Comment=* New Comment=16.5k
+Change Component Comment : Designator=R3 Old Comment=* New Comment=29.1k
+Change Component Comment : Designator=C4 Old Comment=* New Comment=62p
+Change Component Comment : Designator=R2 Old Comment=* New Comment=600
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0805"; UniqueID = "\JYSOBWSJ" ("\JYSOBWSJ")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "C0805C125K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.2u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0805"; UniqueID = "\YLSKDRXK" ("\YLSKDRXK")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "0805X7R106KT1AT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0805"; UniqueID = "\EDPTYFAK" ("\EDPTYFAK")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "C0805C125K4RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.2u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C0805"; UniqueID = "\ZQSNOLOE" ("\ZQSNOLOE")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "600F620FT250XT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "62p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R0805"; UniqueID = "\MNZYHANQ" ("\MNZYHANQ")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "ERJ-P06F1652V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "16.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R0805"; UniqueID = "\CEVTWEAO" ("\CEVTWEAO")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "CRCW0805600RFKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "600"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R0805"; UniqueID = "\LJWBPFNI" ("\LJWBPFNI")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "RN73H2ATTD2912B25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "29.1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R0805"; UniqueID = "\EJOKDYXY" ("\EJOKDYXY")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "Vishay/Beyschlag"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "MCU08050E1001BP100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R0805"; UniqueID = "\HUMAPKXF" ("\HUMAPKXF")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "MCU0805MD1002BP500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SMA1" ("SMA1"); Footprint = "J01151A1201"; UniqueID = "\OIWKSVOW" ("\OIWKSVOW")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "50 ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "Telegärtner"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "J01151A1201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket type"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SMA2" ("SMA2"); Footprint = "J01151A1201"; UniqueID = "\NXAUFPVH" ("\NXAUFPVH")
+Change component parameters (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "50 ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacterer"; Value = "Telegärtner"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "J01151A1201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin count"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket type"; Value = "SMA"; VariantName = "[No Variations]"

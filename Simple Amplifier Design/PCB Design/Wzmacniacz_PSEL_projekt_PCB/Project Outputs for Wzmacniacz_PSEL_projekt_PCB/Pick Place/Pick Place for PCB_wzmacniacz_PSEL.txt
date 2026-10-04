@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+C:\Users\Anula\OneDrive - Politechnika Warszawska\25Z\PSEL\Laboratoria 4-6\Laboratorium 3\Wzmacniacz_PSEL_projekt_PCB\Project Outputs for Wzmacniacz_PSEL_projekt_PCB\Pick Place\Pick Place for PCB_wzmacniacz_PSEL.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07.01.26
+Time:       13:07
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment     Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description               
+R5         10k         TopLayer R0805               1287.402      208.661       270      ""                        
+R4         1k          TopLayer R0805               751.968       440.945       270      ""                        
+R3         29.1k       TopLayer R0805               2322.835      267.716       90       ""                        
+R2         600         TopLayer R0805               1283.465      822.835       90       ""                        
+R1         16.5k       TopLayer R0805               2496.063      984.252       90       ""                        
+SMA2       J01151A1201 TopLayer SMA_socket          2677.165      303.150       0        ""                        
+SMA1       J01151A1201 TopLayer SMA_socket          69.803        286.417       180      ""                        
+C4         62p         TopLayer C0805               1283.465      448.819       270      ""                        
+C3         1.2u        TopLayer C0805               2492.126      622.047       90       ""                        
+C1         1.2u        TopLayer C0805               2318.898      980.315       270      ""                        
+C2         10u         TopLayer C0805               752.953       893.465       90       ""                        
+IC1        LT3063      TopLayer 8-Lead_Plastic_MSOP 382.953       783.465       180      ""                        
+U1         ADA4625-1   TopLayer SOIC_N_EP           1832.953      598.465       0        ""                        
+P1         "Header 2"  TopLayer Header-2            114.173       876.772       90       "Header, 2-bin, vertical" 

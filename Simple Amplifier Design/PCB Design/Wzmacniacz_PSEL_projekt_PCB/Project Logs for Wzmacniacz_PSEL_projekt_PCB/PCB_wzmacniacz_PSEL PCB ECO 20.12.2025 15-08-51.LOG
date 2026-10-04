@@ -1,0 +1,143 @@
+Added Component: Designator=C1(C0805)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC1(8-Lead Plastic MSOP)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model name"; Value = "LT3063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Header-2)
+Add component (AddParameter): Name = "Footprint type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufaterer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Raster"; Value = "1.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0805)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0805)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0805)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0805)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SMA1(J01151A1201)
+Added Component: Designator=SMA2(J01151A1201)
+Added Component: Designator=U1(SOIC_N_EP)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model name"; Value = "ADA4625-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-7
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=NetIC1_5 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetIC1_4 Pin=R1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=R1-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=SMA1-2
+Added Pin To Net: NetName=GND Pin=SMA1-3
+Added Pin To Net: NetName=GND Pin=SMA1-4
+Added Pin To Net: NetName=GND Pin=SMA1-5
+Added Pin To Net: NetName=NetSMA2_1 Pin=SMA2-1
+Added Pin To Net: NetName=GND Pin=SMA2-2
+Added Pin To Net: NetName=GND Pin=SMA2-3
+Added Pin To Net: NetName=GND Pin=SMA2-4
+Added Pin To Net: NetName=GND Pin=SMA2-5
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetSMA2_1 Pin=U1-6
+Added Pin To Net: NetName=NetIC1_4 Pin=U1-7
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=IC1-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-3
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=SMA1-1
+Added Net: Name=NetR5_2
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component C1 *
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component C2 *
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component C3 *
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component C4 *
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component IC1 LT3063
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component P1 Header 2
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component R1 *
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component R2 *
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component R3 *
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component R4 *
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component R5 *
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component SMA1 J01151A1201
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component SMA2 J01151A1201
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component U1 '

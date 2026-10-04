@@ -1,0 +1,23 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : PCB Document [PCB_wzmacniacz_PSEL.PcbDoc]
+   Generated File[PCB_wzmacniacz_PSEL.GTL]
+   Generated File[PCB_wzmacniacz_PSEL.GBL]
+   Generated File[PCB_wzmacniacz_PSEL.GTO]
+   Generated File[PCB_wzmacniacz_PSEL.GBO]
+   Generated File[PCB_wzmacniacz_PSEL.GTS]
+   Generated File[PCB_wzmacniacz_PSEL.GBS]
+   Generated File[PCB_wzmacniacz_PSEL.GTP]
+   Generated File[PCB_wzmacniacz_PSEL.GBP]
+   Generated File[PCB_wzmacniacz_PSEL.GM1]
+   Generated File[PCB_wzmacniacz_PSEL.GM]
+   Generated File[PCB_wzmacniacz_PSEL.GBR1]
+   Generated File[PCB_wzmacniacz_PSEL.GBR2]
+   Generated File[PCB_wzmacniacz_PSEL.EXTREP]
+   Generated File[PCB_wzmacniacz_PSEL.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 13:08:01 On 07.01.2026

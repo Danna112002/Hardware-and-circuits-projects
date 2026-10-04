@@ -1,0 +1,11 @@
+Added Net: Name=GND
+Added Net: Name=NetC3_8
+Added Net: Name=NetIC1_2
+Added Net: Name=NetIC1_4
+Added Net: Name=NetIC1_5
+Added Net: Name=NetR4_9
+Added Net: Name=NetR5_9
+Added Net: Name=NetR5_10
+Added Net: Name=NetSMA2_1
+Added Class: Name=Schemat_wzmacniacz_PSEL
+Added Rule: Name=Schematic Supply Nets

@@ -1,0 +1,41 @@
+\documentclass{article}
+\usepackage{geometry}  
+\usepackage{amsmath}  
+\usepackage{graphicx} 
+\usepackage{svg}
+\usepackage[T1]{fontenc}
+\usepackage[backend=biber,style=numeric]{biblatex}
+\usepackage{url} % Obsługa linków
+\usepackage{hyperref}
+
+
+%----------------------------------------------------------------------------------------
+%	REPORT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\title{TRA - Techniki Realizacji Algorytmów Cyfrowego Przetwarzania Sygnałów  \\ Projekt - specyfikacja wstępna \\} % Report title
+
+\author{Anna \textsc{Dzieżyk}, indeks: 318506 \\ }% Author name(s), add additional authors like: '\& James \textsc{Smith}'
+
+\date{\today} % Date of the report
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle % Insert the title, author and date using the information specified above
+\section{Cel projektu}
+Celem projektu będzie stworzenie stopnia wejściowego dla przykładowo wzmacniacza klasy D użytego w kolumnie głośnikowej -  
+ten projektowany stopień wejściowy nie będzie komparatorem tylko modulatorem sigma delta. Następnie zostanie porównany typowy model 
+wzmacniacza klasy D z komparatorem na wejśćciu, do zaprojektowanego wzmacniacza z modulatorem sigma-delta na wejściu.
+\section{Wstępny sposób realizacji}
+
+Stworzenie modelu wzmacnacza klasy D, z komparatorem jako stopniem wejściowym, podanie spróbkowanego sygnału audio na wejście wzmacniacza, następnie stworzenie modelu 
+wzmacniacza klasy D z modulatorem Sigma-Delta (od pierwszego do trzeciego rzędu) jako stopniem wejściowym i finalnie porównanie parametrów wyjściowych sygnałów obserwowanych na wyściu wszystkich zaprojektowanych wzmacniaczy.
+\section{Potrzebne środowiska}
+Matlab, Simulink;
+\section{Bibliografia}
+1. \url{https://pl.wikipedia.org/wiki/Wzmacniacz_impulsowy} \\
+2. \url{https://www.digikey.pl/pl/articles/the-basics-of-anti-aliasing-low-pass-filters}
+3. \url{https://esezam.okno.pw.edu.pl/mod/book/view.php?id=33&chapterid=648}
+\end{document}

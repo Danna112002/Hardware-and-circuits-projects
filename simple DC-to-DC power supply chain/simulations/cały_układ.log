@@ -1,0 +1,49 @@
+LTspice 26.1.1 for Windows
+Circuit: Z:\home\anula\OneDrive\Hardware-and-circuits-projects\simple DC-to-DC power supply chain\simulations\cały_układ.net
+Start Time: Sun Oct  4 15:34:18 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+C11: Increased Cpar to 4.7e-18
+C3: Increased Cpar to 1e-13
+C4: Increased Cpar to 1e-11
+C1: Increased Cpar to 1e-11
+C2: Increased Cpar to 1.5e-15
+C6: Increased Cpar to 2.2e-11
+C7: Increased Cpar to 1e-12
+C8: Increased Cpar to 1e-12
+C9: Increased Cpar to 1e-12
+C10: Increased Cpar to 1e-12
+C12: Increased Cpar to 1e-15
+C13: Increased Cpar to 2.2e-11
+C14: Increased Cpar to 1e-12
+C15: Increased Cpar to 1e-12
+C16: Increased Cpar to 2.2e-13
+C17: Increased Cpar to 2.2e-17
+C18: Increased Cpar to 2.2e-11
+C19: Increased Cpar to 1e-12
+C20: Increased Cpar to 1e-12
+C21: Increased Cpar to 1e-12
+C22: Increased Cpar to 1e-15
+C23: Increased Cpar to 4.7e-12
+C24: Increased Cpar to 1e-17
+C25: Increased Cpar to 1e-10
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+Simulation stopped by user.
+Total elapsed time: 14.364 seconds.
+Total iterations: 330051
+
+Files loaded:
+Z:\home\anula\OneDrive\Hardware-and-circuits-projects\simple DC-to-DC power supply chain\simulations\cały_układ.net
+C:\users\anula\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\users\anula\AppData\Local\LTspice\lib\sub\LT3470.sub
+C:\users\anula\AppData\Local\LTspice\lib\sub\LT8330.sub
+C:\users\anula\AppData\Local\LTspice\lib\sub\LT8333.sub
+C:\users\anula\AppData\Local\LTspice\lib\sub\LT8640S.sub
+

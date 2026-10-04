@@ -1,0 +1,191 @@
+*************************************************************
+FileName = PCB_wzmacniacz_PSEL.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : PCB_wzmacniacz_PSEL.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_wzmacniacz_PSEL.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_wzmacniacz_PSEL.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_wzmacniacz_PSEL.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_wzmacniacz_PSEL.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_wzmacniacz_PSEL.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_wzmacniacz_PSEL.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_wzmacniacz_PSEL.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB_wzmacniacz_PSEL.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PCB_wzmacniacz_PSEL.GM
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : PCB_wzmacniacz_PSEL.GBR1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : PCB_wzmacniacz_PSEL.GBR2
+
+
+Used DCodes :
+    D42
+    D43
+*************************************************************
+

@@ -1,0 +1,23 @@
+Added Net: Name=GND
+Added Net: Name=NetC3_8
+Added Net: Name=NetIC1_2
+Added Net: Name=NetIC1_4
+Added Net: Name=NetIC1_5
+Added Net: Name=NetR4_9
+Added Net: Name=NetR5_9
+Added Net: Name=NetR5_10
+Added Net: Name=NetSMA2_1
+Add Class Member: Failed to add class member : Component C1 1.2u
+Add Class Member: Failed to add class member : Component C2 10u
+Add Class Member: Failed to add class member : Component C3 1.2u
+Add Class Member: Failed to add class member : Component C4 62p
+Add Class Member: Failed to add class member : Component IC1 LT3063
+Add Class Member: Failed to add class member : Component P1 Header 2
+Add Class Member: Failed to add class member : Component R1 16.5k
+Add Class Member: Failed to add class member : Component R2 600
+Add Class Member: Failed to add class member : Component R3 29.1k
+Add Class Member: Failed to add class member : Component R4 1k
+Add Class Member: Failed to add class member : Component R5 10k
+Add Class Member: Failed to add class member : Component SMA1 J01151A1201
+Add Class Member: Failed to add class member : Component SMA2 J01151A1201
+Add Class Member: Failed to add class member : Component U1 ADA4625-1

@@ -1,0 +1,26 @@
+Added Component: Designator=SMA1(SMA socket)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50 ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = "Telegärtner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "J01151A1201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket type"; Value = "SMA"; VariantName = "[No Variations]"
+Added Component: Designator=SMA2(SMA socket)
+Add component (AddParameter): Name = "Footprint type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50 ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacterer"; Value = "Telegärtner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "J01151A1201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket type"; Value = "SMA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR5_2 Pin=SMA1-1
+Added Pin To Net: NetName=GND Pin=SMA1-2
+Added Pin To Net: NetName=GND Pin=SMA1-3
+Added Pin To Net: NetName=GND Pin=SMA1-4
+Added Pin To Net: NetName=GND Pin=SMA1-5
+Added Pin To Net: NetName=NetR3_2 Pin=SMA2-1
+Added Pin To Net: NetName=GND Pin=SMA2-2
+Added Pin To Net: NetName=GND Pin=SMA2-3
+Added Pin To Net: NetName=GND Pin=SMA2-4
+Added Pin To Net: NetName=GND Pin=SMA2-5
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component SMA1 SMA socket
+Added Member To Class: ClassName=Schemat_wzmacniacz_PSEL Member=Component SMA2 SMA socket
